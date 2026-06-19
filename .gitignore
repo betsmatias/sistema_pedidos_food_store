@@ -1,0 +1,26 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilación
+/build/
+/out/
+/target/
+/bin/
+
+# Archivos de configuración de NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+
+# Archivos de configuración de Eclipse / IntelliJ
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Otros archivos que no suman al código
+*.jar
+*.war
+*.ear
+*.log
