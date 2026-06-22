@@ -15,4 +15,4 @@ Aplica los pilares de la Programación Orientada a Objetos, arquitecturas basada
 
 ## Enlaces Importantes
 * **Video Demostrativo:** [https://youtu.be/UEHEakKNqDQ]
-* **Documentación PDF:** El archivo PDF con la documentación técnica se encuentra en la raíz de este repositorio.
+* **Documentación PDF:** El archivo PDF con la documentación técnica se encuentra en la raíz de este repositorio https://github.com/betsmatias/sistema_pedidos_food_store.git.
