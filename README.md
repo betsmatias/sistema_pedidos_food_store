@@ -14,5 +14,5 @@ Aplica los pilares de la Programación Orientada a Objetos, arquitecturas basada
 6. Interactuar con el sistema a través del menú de la consola ingresando los números de las opciones.
 
 ## Enlaces Importantes
-* **Video Demostrativo:** [Insertar Link del Video aquí - Asegurar permisos públicos]
+* **Video Demostrativo:** [https://youtu.be/UEHEakKNqDQ]
 * **Documentación PDF:** El archivo PDF con la documentación técnica se encuentra en la raíz de este repositorio.
